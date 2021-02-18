@@ -49,7 +49,6 @@ function handleMltipleOpertaion(item){
           input.value+=item.innerText;
           answer();
           operator=item.innerText;
-         
           return;
       }
         input.value+=item.innerText;
